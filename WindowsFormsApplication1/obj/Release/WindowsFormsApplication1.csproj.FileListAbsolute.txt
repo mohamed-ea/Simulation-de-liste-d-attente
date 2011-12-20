@@ -1,0 +1,9 @@
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.monForm.resources
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\ResGen.read.1.tlog
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\ResGen.write.1.tlog
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

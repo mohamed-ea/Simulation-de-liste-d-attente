@@ -1,0 +1,17 @@
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.monForm.resources
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\user\Bureau\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.monForm.resources
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\ResGen.read.1.tlog
+D:\EMSI\dotNET & XML\Simulation de liste d-attente\WindowsFormsApplication1\obj\Debug\ResGen.write.1.tlog
